@@ -20,3 +20,5 @@
 如果有兴趣可以关注公众号来查看
 
 ![双鬼带单](img/red.jpg)
+
+[![some-big-bugs/Become-A-Software-Development-Engineer-in-Test](https://gitee.com/some-big-bugs/Become-A-Software-Development-Engineer-in-Test/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/some-big-bugs/Become-A-Software-Development-Engineer-in-Test)
